@@ -31,4 +31,4 @@ Na criação do projeto iniciei com [Vite](https://pt.vitejs.dev/guide/) para cr
 
 ## Screenshots
 
-
+![Pandanjos](https://github.com/Milimaverde/teste-pandanjo/assets/100416520/2ab5327e-6a1b-4430-9266-aeeef3d28a14)
