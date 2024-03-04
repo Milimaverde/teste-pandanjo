@@ -2,6 +2,7 @@
 # Desafio Pandanjo 🐼
 
 Este é o readme para o projeto de e-commerce de uma loja de roupas, desenvolvido como parte de um teste prático para a empresa Pandanjo. A solução utiliza HTML, CSS e JavaScript, incluindo a biblioteca Swiper para os slides. Espero que esta documentação seja útil. Aproveite explorando o projeto! 😊
+Você pode acessar o projeto clicando [aqui](https://teste-pandanjo.vercel.app/).
 
 ## Acesso à Documentação do Swiper e Link do Ligma 📄
 - A biblioteca Swiper foi utilizada para implementar os carrosséis de imagens. A documentação completa do Swiper pode ser encontrada [aqui](https://swiperjs.com/swiper-api#initialize-swiper).
@@ -26,6 +27,8 @@ Na criação do projeto iniciei com [Vite](https://pt.vitejs.dev/guide/) para cr
     
 ## Funcionalidades Implementadas
 
+- Exibição de Avaliações: Exibição condicional de acordo com um valor passado para o modulo de avaliações.
+- Exibição de tamanhos e cores: Exibição condicional dos tamanhos e cores disponíveis através de variavel que pode ser passada aos modulos.
 - Carrosséis de Imagens: Utilização da biblioteca Swiper para criar slides de imagens dinâmicos.
 - Responsividade: A página é projetada para ser visualizada de forma eficaz em dispositivos de diferentes tamanhos, principalmente mobile e web.
 
